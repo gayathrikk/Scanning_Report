@@ -75,7 +75,7 @@
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
           <configuration>
-            <test>com.test.Imaging_Quality.Datatest</test>
+            <test>com.test.Scanning_Report.Dataset</test>
           </configuration>
         </plugin>
       </plugins>
